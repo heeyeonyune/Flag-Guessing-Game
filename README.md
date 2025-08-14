@@ -60,5 +60,5 @@ cd Flag-Guessing-Game
 4. Run the program (⌘R).
 
 ### 📬 Contact
-Author: Heeyeon Yoon — <heeyeon.yune@gmail.com>
-GitHub: @heeyeonyune
+- Author: Heeyeon Yoon — <heeyeon.yune@gmail.com>
+- GitHub: @heeyeonyune
