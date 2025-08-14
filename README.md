@@ -1,4 +1,4 @@
-# Flag Guessing Game — iOS (Swift)
+# Flag Guessing Game: iOS (Swift)
 A lightweight, fast, and fun flag quiz game for iPhone and iPad. You’re shown a **country name** and three **random flags**; tap the flag that matches the country to score points. Perfect for quick geography practice and friendly competition.
 
 ## Features
@@ -24,6 +24,7 @@ A lightweight, fast, and fun flag quiz game for iPhone and iPad. You’re shown 
 - **UI**: SwiftUI
 
 ## 📁 Project Structure
+```bash
 Flag-Guessing-Game/
 ├── flag_guessing_game/                # Main iOS App
 │   ├── flag_guessing_game/
@@ -41,6 +42,7 @@ Flag-Guessing-Game/
 │   ├── Brazil.jpg
 │   └── ...
 └── README.md
+```
 
 ## 🚀 Getting Started
 ### Prerequisites
